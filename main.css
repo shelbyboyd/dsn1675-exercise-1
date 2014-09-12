@@ -75,6 +75,7 @@ img {
   overflow: hidden;
   width: 33%;
   border-left: thin solid #5d5c5c;
+  padding: 1rem;
 }
 
 .diet {
