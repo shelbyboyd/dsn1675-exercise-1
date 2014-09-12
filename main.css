@@ -42,3 +42,26 @@ img {
   margin: 0%;
   float: left;
 }
+
+.period h2 {
+  font-size: 1rem;
+  color: #8d8d8d;
+  text-transform:uppercase;
+  overflow: hidden;
+  width: 33%;
+}
+
+.diet h2 {
+  font-size: 1rem;
+  color: #8d8d8d;
+  text-transform:uppercase; 
+  float: left;
+  overflow: hidden;
+  width:33%;
+}
+
+.length h2 {
+  font-size: 1rem;
+  color: #8d8d8d;
+  text-transform:uppercase; 
+}
