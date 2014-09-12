@@ -23,9 +23,22 @@ html {
 body {
   margin: 0;
   padding: 0;
+  background-color: #e2e2e2;
 }
 
 img {
   display: block;
   width: 100%;
+}
+
+.title {
+  font-size: 1.5rem;
+  padding-left: 5%;
+}
+
+.dino {
+  width: auto;
+  padding: 0%;
+  margin: 0%;
+  float: left;
 }
